@@ -1,0 +1,3 @@
+/home/doug/CLionProjects/funkyunions/cmake-build-debug/CMakeFiles/funkyunions.dir
+/home/doug/CLionProjects/funkyunions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/doug/CLionProjects/funkyunions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
